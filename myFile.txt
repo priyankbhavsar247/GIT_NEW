@@ -3,3 +3,6 @@ Adding 2nd line.
 Here, I am adding 2nd line in develop branch!
 Let me ad rd line in master !
 now lets addsomething in master again!
+Let me ad rd line in master.
+Now 3rd line in develop!
+now 3rd line in de develop!
